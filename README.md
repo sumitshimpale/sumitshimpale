@@ -28,6 +28,8 @@
 <img src="https://img.shields.io/badge/JBoss-red?style=for-the-badge" />
 <img src="https://img.shields.io/badge/WebLogic-orange?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Tomcat-yellow?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Apache_HTTP_Server-grey?style=for-the-badge&logo=apache&logoColor=white" />
+<img src="https://img.shields.io/badge/IBM_HTTP_Server-blue?style=for-the-badge&logo=ibm&logoColor=white" />
 </p>
 
 ---
