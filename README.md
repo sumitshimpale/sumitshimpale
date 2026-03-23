@@ -47,16 +47,20 @@
 <a href="https://github.com/sumitshimpale">GitHub</a> |
 <a href="https://www.linkedin.com/in/sumit-shimpale/">LinkedIn</a>
 </p>
-**sumitshimpale/sumitshimpale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 💡 More About Me  
+
+- 🔭 I’m currently working on building and optimizing CI/CD pipelines using Jenkins & GitHub Actions for enterprise applications  
+- 🌱 I’m currently learning advanced Kubernetes, Helm, and cloud-native architecture on AWS  
+- 👯 I’m looking to collaborate on DevOps, Cloud, and Automation projects  
+- 🤔 I’m looking for help with mastering system design and scalable infrastructure  
+- 💬 Ask me about DevOps, Middleware (WebSphere, JBoss, WebLogic), CI/CD, and Linux troubleshooting  
+- 📫 How to reach me: sumitshimpale@gmail.com  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I automate everything I can — if it's manual, it shouldn't exist 🚀  
+
+---
 -->
