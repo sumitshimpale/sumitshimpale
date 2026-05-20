@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hello 👋, I'm Sumit Shimpale</h1>
 <h3 align="center">DevOps & Middleware Engineer 🚀</h3>
