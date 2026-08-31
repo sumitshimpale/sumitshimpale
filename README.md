@@ -9,8 +9,8 @@
 
 - 🔧 DevOps & Middleware Engineer (4+ years)
 - ☁️ AWS | Kubernetes | Docker | Terraform
-- ⚙️ WebSphere | JBoss | WebLogic | Tomcat
-- 📊 Monitoring: Prometheus & Grafana
+- ⚙️ WebSphere | JBoss | WebLogic | Tomcat | AHS | IHS | MQ | KAFKA
+- 📊 Monitoring: Splunk, OEM, Prometheus & Grafana
 - 🔁 CI/CD: Jenkins & GitHub Actions
 
 ---
