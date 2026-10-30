@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-- 🔧 DevOps & Middleware Engineer (4+ years)
+- 🔧 DevOps Engineer (4+ years)
 - ☁️ AWS | Kubernetes | Docker | Terraform
 - ⚙️ WebSphere | JBoss | WebLogic | Tomcat | AHS | IHS | MQ | KAFKA
 - 📊 Monitoring: Splunk, OEM, Prometheus & Grafana
